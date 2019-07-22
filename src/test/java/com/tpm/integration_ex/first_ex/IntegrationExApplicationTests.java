@@ -1,4 +1,4 @@
-package com.tpm.integrationex;
+package com.tpm.integration_ex.first_ex;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
